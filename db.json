@@ -1,6 +1,6 @@
 {
     "countries":  {
-    instances:[
+    "instances":[
     {
         "name": "Brazil",
         "id": "BR",
