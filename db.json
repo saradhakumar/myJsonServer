@@ -1,0 +1,21 @@
+{
+    "countries":  {
+    instances:[
+    {
+        "name": "Brazil",
+        "id": "BR",
+        "descriptor": "BR"
+    },
+    {
+        "name": "India",
+        "id": "IN",
+        "descriptor": "IN" 
+    },
+    {
+        "name": "United States of America",
+        "id": "US",
+        "descriptor": "USA" 
+    }
+   ]
+    }
+}
