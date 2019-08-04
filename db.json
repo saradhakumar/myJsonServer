@@ -22,64 +22,55 @@
             "name": "Cinco de Mayo",
             "date": "2018-05-05",
             "observed": "2018-05-05",
-            "public": false,
-            "country": "US"
+            "public": false
         },
         {
             "name": "Mother's Day",
             "date": "2018-05-13",
             "observed": "2018-05-13",
-            "public": false,
-            "country": "US"
+            "public": false
         },
         {
             "name": "Memorial Day",
             "date": "2018-05-28",
             "observed": "2018-05-28",
-            "public": true,
-            "country": "US"
+            "public": true
         },
         {
             "name": "Father's Day",
             "date": "2018-06-17",
             "observed": "2018-06-17",
-            "public": false,
-            "country": "US"
+            "public": false
         },
         {
             "name": "Helen Keller Day",
             "date": "2018-06-27",
             "observed": "2018-06-27",
-            "public": false,
-            "country": "US"
+            "public": false
         },
         {
             "name": "Independence Day",
             "date": "2018-07-04",
             "observed": "2018-07-04",
-            "public": true,
-            "country": "US"
+            "public": true
         },
         {
             "name": "Labor Day",
             "date": "2018-09-03",
             "observed": "2018-09-03",
-            "public": true,
-            "country": "US"
+            "public": true
         },
         {
             "name": "Patriot Day",
             "date": "2018-09-11",
             "observed": "2018-09-11",
-            "public": false,
-            "country": "US"
+            "public": false
         },
         {
             "name": "Columbus Day",
             "date": "2018-10-08",
             "observed": "2018-10-08",
-            "public": true,
-            "country": "US"
+            "public": true
         },
         {
             "name": "Halloween",
@@ -92,85 +83,49 @@
             "name": "Election Day",
             "date": "2018-11-06",
             "observed": "2018-11-06",
-            "public": false,
-            "country": "US"
+            "public": false
         },
         {
             "name": "Veterans Day",
             "date": "2018-11-11",
             "observed": "2018-11-12",
-            "public": true,
-            "country": "US"
+            "public": true
         },
         {
             "name": "Thanksgiving Day",
             "date": "2018-11-22",
             "observed": "2018-11-22",
-            "public": true,
-            "country": "US"
-        },
-        {
-            "name": "Black Friday",
-            "date": "2018-11-23",
-            "observed": "2018-11-23",
-            "public": false,
-            "country": "US"
+            "public": true
         },
         {
             "name": "Hanukkah",
             "date": "2018-12-03",
             "observed": "2018-12-03",
-            "public": false,
-            "country": "US"
+            "public": false
         },
         {
             "name": "Pearl Harbor Remembrance Day",
             "date": "2018-12-07",
             "observed": "2018-12-07",
-            "public": false,
-            "country": "US"
-        },
-        {
-            "name": "Sixth Day of Hanukkah",
-            "date": "2018-12-08",
-            "observed": "2018-12-08",
-            "public": false,
-            "country": "US"
-        },
-        {
-            "name": "Seventh Day of Hanukkah",
-            "date": "2018-12-09",
-            "observed": "2018-12-09",
-            "public": false,
-            "country": "US"
-        },
-        {
-            "name": "Eighth Day of Hanukkah",
-            "date": "2018-12-10",
-            "observed": "2018-12-10",
-            "public": false,
-            "country": "US"
+            "public": false
         },
         {
             "name": "Christmas Eve",
             "date": "2018-12-24",
             "observed": "2018-12-24",
-            "public": false,
-            "country": "US"
+            "public": false
         },
         {
             "name": "Christmas Day",
             "date": "2018-12-25",
             "observed": "2018-12-25",
-            "public": true,
-            "country": "US"
+            "public": true
         },
         {
             "name": "New Year's Eve",
             "date": "2018-12-31",
             "observed": "2018-12-31",
-            "public": true,
-            "country": "US"
+            "public": true
         }
       ]
     },
