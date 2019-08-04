@@ -17,8 +17,7 @@
             "name": "George Washington's Birthday",
             "date": "2018-02-19",
             "observed": "2018-02-19",
-            "public": true,
-            "country": "US"
+            "public": true
         },  {
             "name": "Cinco de Mayo",
             "date": "2018-05-05",
@@ -77,8 +76,7 @@
             "name": "Halloween",
             "date": "2018-10-31",
             "observed": "2018-10-31",
-            "public": false,
-            "country": "US"
+            "public": false
         },
         {
             "name": "Election Day",
