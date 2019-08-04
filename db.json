@@ -1,6 +1,7 @@
 {
-  "country": {"instances":[
-      {
+  "countries": {
+    "instances": [
+          {
               "descriptor": "USA",
               "id": "USA"
           },
