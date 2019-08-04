@@ -1,32 +1,204 @@
 {
   "country": {"instances":[
       {
-              "descriptor": "Pleasanton, USA",
-              "id": "pleasanton_USA"
+              "descriptor": "USA",
+              "id": "USA"
           },
           {
-              "descriptor": "Dublin, Ireland",
-              "id": "dublin_Ireland"
+              "descriptor": "Ireland",
+              "id": "Ireland"
           }
     ]},
   
-    "pleasanton_USA": {
-      "buildings": [
-      {
-            "descriptor": "6230 PLS",
-            "id": "6230_PLS"
+    "USA": {
+      "holidays": [
+       {
+            "name": "George Washington's Birthday",
+            "date": "2018-02-19",
+            "observed": "2018-02-19",
+            "public": true,
+            "country": "US"
+        },  {
+            "name": "Cinco de Mayo",
+            "date": "2018-05-05",
+            "observed": "2018-05-05",
+            "public": false,
+            "country": "US"
         },
         {
-            "descriptor": "6160 PLS",
-            "id": "6160_PLS"
+            "name": "Mother's Day",
+            "date": "2018-05-13",
+            "observed": "2018-05-13",
+            "public": false,
+            "country": "US"
+        },
+        {
+            "name": "Memorial Day",
+            "date": "2018-05-28",
+            "observed": "2018-05-28",
+            "public": true,
+            "country": "US"
+        },
+        {
+            "name": "Father's Day",
+            "date": "2018-06-17",
+            "observed": "2018-06-17",
+            "public": false,
+            "country": "US"
+        },
+        {
+            "name": "Helen Keller Day",
+            "date": "2018-06-27",
+            "observed": "2018-06-27",
+            "public": false,
+            "country": "US"
+        },
+        {
+            "name": "Independence Day",
+            "date": "2018-07-04",
+            "observed": "2018-07-04",
+            "public": true,
+            "country": "US"
+        },
+        {
+            "name": "Labor Day",
+            "date": "2018-09-03",
+            "observed": "2018-09-03",
+            "public": true,
+            "country": "US"
+        },
+        {
+            "name": "Patriot Day",
+            "date": "2018-09-11",
+            "observed": "2018-09-11",
+            "public": false,
+            "country": "US"
+        },
+        {
+            "name": "Columbus Day",
+            "date": "2018-10-08",
+            "observed": "2018-10-08",
+            "public": true,
+            "country": "US"
+        },
+        {
+            "name": "Halloween",
+            "date": "2018-10-31",
+            "observed": "2018-10-31",
+            "public": false,
+            "country": "US"
+        },
+        {
+            "name": "Election Day",
+            "date": "2018-11-06",
+            "observed": "2018-11-06",
+            "public": false,
+            "country": "US"
+        },
+        {
+            "name": "Veterans Day",
+            "date": "2018-11-11",
+            "observed": "2018-11-12",
+            "public": true,
+            "country": "US"
+        },
+        {
+            "name": "Thanksgiving Day",
+            "date": "2018-11-22",
+            "observed": "2018-11-22",
+            "public": true,
+            "country": "US"
+        },
+        {
+            "name": "Black Friday",
+            "date": "2018-11-23",
+            "observed": "2018-11-23",
+            "public": false,
+            "country": "US"
+        },
+        {
+            "name": "Hanukkah",
+            "date": "2018-12-03",
+            "observed": "2018-12-03",
+            "public": false,
+            "country": "US"
+        },
+        {
+            "name": "Pearl Harbor Remembrance Day",
+            "date": "2018-12-07",
+            "observed": "2018-12-07",
+            "public": false,
+            "country": "US"
+        },
+        {
+            "name": "Sixth Day of Hanukkah",
+            "date": "2018-12-08",
+            "observed": "2018-12-08",
+            "public": false,
+            "country": "US"
+        },
+        {
+            "name": "Seventh Day of Hanukkah",
+            "date": "2018-12-09",
+            "observed": "2018-12-09",
+            "public": false,
+            "country": "US"
+        },
+        {
+            "name": "Eighth Day of Hanukkah",
+            "date": "2018-12-10",
+            "observed": "2018-12-10",
+            "public": false,
+            "country": "US"
+        },
+        {
+            "name": "Christmas Eve",
+            "date": "2018-12-24",
+            "observed": "2018-12-24",
+            "public": false,
+            "country": "US"
+        },
+        {
+            "name": "Christmas Day",
+            "date": "2018-12-25",
+            "observed": "2018-12-25",
+            "public": true,
+            "country": "US"
+        },
+        {
+            "name": "New Year's Eve",
+            "date": "2018-12-31",
+            "observed": "2018-12-31",
+            "public": true,
+            "country": "US"
         }
       ]
-    }
-     ,
-    "dublin_Ireland": {"buildings": [
+    },
+  "Ireland": {
+    "holidays": [
         {
-            "descriptor": "Kings Building",
-            "id": "kings_building"
+            "name": "New Year's Day",
+            "date": "2018-01-01",
+            "observed": "2018-01-01",
+            "public": true
+        },
+        {
+            "name": "Mother's Day",
+            "date": "2018-03-11",
+            "observed": "2018-03-11",
+            "public": false
+        },
+        {
+            "name": "Saint Patrick's Day",
+            "date": "2018-03-17",
+            "observed": "2018-03-17",
+            "public": true
+        },
+        {
+            "name": "March Equinox",
+            "date": "2018-03-20",
+            "observed": "2018-03-20",
+            "public": false
         }
     ]
   }
