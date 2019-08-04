@@ -1,21 +1,33 @@
 {
-    "countries":  {
-    "instances":[
-    {
-        "name": "Brazil",
-        "id": "BR",
-        "descriptor": "BR"
-    },
-    {
-        "name": "India",
-        "id": "IN",
-        "descriptor": "IN" 
-    },
-    {
-        "name": "United States of America",
-        "id": "US",
-        "descriptor": "USA" 
+  "country": {"instances":[
+      {
+              "descriptor": "Pleasanton, USA",
+              "id": "pleasanton_USA"
+          },
+          {
+              "descriptor": "Dublin, Ireland",
+              "id": "dublin_Ireland"
+          }
+    ]},
+  
+    "pleasanton_USA": {
+      "buildings": [
+      {
+            "descriptor": "6230 PLS",
+            "id": "6230_PLS"
+        },
+        {
+            "descriptor": "6160 PLS",
+            "id": "6160_PLS"
+        }
+      ]
     }
-   ]
-    }
+     ,
+    "dublin_Ireland": {"buildings": [
+        {
+            "descriptor": "Kings Building",
+            "id": "kings_building"
+        }
+    ]
+  }
 }
