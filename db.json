@@ -15,58 +15,55 @@
       "holidays": [
        {
             "descriptor": "George Washington's Birthday",
+            "id": 1,
             "date": "2018-02-19",
             "observed": "2018-02-19",
             "public": true
-        },  {
-            "descriptor": "Cinco de Mayo",
-            "date": "2018-05-05",
-            "observed": "2018-05-05",
-            "public": false
         },
         {
             "descriptor": "Memorial Day",
+            "id": 2,
             "date": "2018-05-28",
             "observed": "2018-05-28",
             "public": true
         },
         {
             "descriptor": "Independence Day",
+            "id": 3,
             "date": "2018-07-04",
             "observed": "2018-07-04",
             "public": true
         },
         {
             "descriptor": "Labor Day",
+            "id": 4,
             "date": "2018-09-03",
             "observed": "2018-09-03",
             "public": true
         },
         {
             "descriptor": "Thanksgiving Day",
+            "id": 5,
             "date": "2018-11-22",
             "observed": "2018-11-22",
             "public": true
         },
         {
             "descriptor": "Christmas Day",
+            "id": 6,
             "date": "2018-12-25",
             "observed": "2018-12-25",
-            "public": true
-        },
-        {
-            "descriptor": "New Year's Eve",
-            "date": "2018-12-31",
-            "observed": "2018-12-31",
             "public": true
         }
       ],
       "languages": [
         {
-            "descriptor": "Spanish"
+            "descriptor": "Spanish",
+            "id": 1
         },
         {
             "descriptor": "English"
+             "id": 2         
         }
     ]
     },
@@ -74,24 +71,28 @@
     "holidays": [
         {
             "descriptor": "New Year's Day",
+            "id": 1,
             "date": "2018-01-01",
             "observed": "2018-01-01",
             "public": true
         },
         {
             "descriptor": "Ganesha Chaturti",
+            "id": 2,
             "date": "2018-07-11",
             "observed": "2018-07-11",
             "public": false
         },
         {
             "descriptor": "Diwali",
+            "id": 3,
             "date": "2018-07-17",
             "observed": "2018-07-17",
             "public": true
         },
         {
-            "descriptor": "Christmas",
+          "id": 4,
+          "descriptor": "Christmas",
             "date": "2018-12-25",
             "observed": "2018-12-25",
             "public": false
