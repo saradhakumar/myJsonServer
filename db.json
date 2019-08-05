@@ -14,114 +14,48 @@
     "USA": {
       "holidays": [
        {
-            "name": "George Washington's Birthday",
+            "descriptor": "George Washington's Birthday",
             "date": "2018-02-19",
             "observed": "2018-02-19",
             "public": true
         },  {
-            "name": "Cinco de Mayo",
+            "descriptor": "Cinco de Mayo",
             "date": "2018-05-05",
             "observed": "2018-05-05",
             "public": false
         },
         {
-            "name": "Mother's Day",
-            "date": "2018-05-13",
-            "observed": "2018-05-13",
-            "public": false
-        },
-        {
-            "name": "Memorial Day",
+            "descriptor": "Memorial Day",
             "date": "2018-05-28",
             "observed": "2018-05-28",
             "public": true
         },
         {
-            "name": "Father's Day",
-            "date": "2018-06-17",
-            "observed": "2018-06-17",
-            "public": false
-        },
-        {
-            "name": "Helen Keller Day",
-            "date": "2018-06-27",
-            "observed": "2018-06-27",
-            "public": false
-        },
-        {
-            "name": "Independence Day",
+            "descriptor": "Independence Day",
             "date": "2018-07-04",
             "observed": "2018-07-04",
             "public": true
         },
         {
-            "name": "Labor Day",
+            "descriptor": "Labor Day",
             "date": "2018-09-03",
             "observed": "2018-09-03",
             "public": true
         },
         {
-            "name": "Patriot Day",
-            "date": "2018-09-11",
-            "observed": "2018-09-11",
-            "public": false
-        },
-        {
-            "name": "Columbus Day",
-            "date": "2018-10-08",
-            "observed": "2018-10-08",
-            "public": true
-        },
-        {
-            "name": "Halloween",
-            "date": "2018-10-31",
-            "observed": "2018-10-31",
-            "public": false
-        },
-        {
-            "name": "Election Day",
-            "date": "2018-11-06",
-            "observed": "2018-11-06",
-            "public": false
-        },
-        {
-            "name": "Veterans Day",
-            "date": "2018-11-11",
-            "observed": "2018-11-12",
-            "public": true
-        },
-        {
-            "name": "Thanksgiving Day",
+            "descriptor": "Thanksgiving Day",
             "date": "2018-11-22",
             "observed": "2018-11-22",
             "public": true
         },
         {
-            "name": "Hanukkah",
-            "date": "2018-12-03",
-            "observed": "2018-12-03",
-            "public": false
-        },
-        {
-            "name": "Pearl Harbor Remembrance Day",
-            "date": "2018-12-07",
-            "observed": "2018-12-07",
-            "public": false
-        },
-        {
-            "name": "Christmas Eve",
-            "date": "2018-12-24",
-            "observed": "2018-12-24",
-            "public": false
-        },
-        {
-            "name": "Christmas Day",
+            "descriptor": "Christmas Day",
             "date": "2018-12-25",
             "observed": "2018-12-25",
             "public": true
         },
         {
-            "name": "New Year's Eve",
+            "descriptor": "New Year's Eve",
             "date": "2018-12-31",
             "observed": "2018-12-31",
             "public": true
@@ -129,35 +63,35 @@
       ],
       "languages": [
         {
-            "name": "Spanish"
+            "descriptor": "Spanish"
         },
         {
-            "name": "English"
+            "descriptor": "English"
         }
     ]
     },
   "India": {
     "holidays": [
         {
-            "name": "New Year's Day",
+            "descriptor": "New Year's Day",
             "date": "2018-01-01",
             "observed": "2018-01-01",
             "public": true
         },
         {
-            "name": "Ganesha Chaturti",
+            "descriptor": "Ganesha Chaturti",
             "date": "2018-07-11",
             "observed": "2018-07-11",
             "public": false
         },
         {
-            "name": "Diwali",
+            "descriptor": "Diwali",
             "date": "2018-07-17",
             "observed": "2018-07-17",
             "public": true
         },
         {
-            "name": "Christmas",
+            "descriptor": "Christmas",
             "date": "2018-12-25",
             "observed": "2018-12-25",
             "public": false
@@ -165,22 +99,22 @@
     ],
      "languages": [
         {
-            "name": "Hindi"
+            "descriptor": "Hindi"
         },
         {
-            "name": "English"
+            "descriptor": "English"
         },
         {
-            "name": "Tamil"
+            "descriptor": "Tamil"
         },
         {
-            "name": "Telugu"
+            "descriptor": "Telugu"
         },
         {
-            "name": "Malayalam"
+            "descriptor": "Malayalam"
         },
         {
-            "name": "Kannada and many more..."
+            "descriptor": "Kannada and many more..."
         }
     ]
   }
