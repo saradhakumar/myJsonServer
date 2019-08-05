@@ -126,9 +126,17 @@
             "observed": "2018-12-31",
             "public": true
         }
-      ]
+      ],
+      "languages": [
+        {
+            "name": "Spanish"
+        },
+        {
+            "name": "English"
+        }
+    ]
     },
-  "Ireland": {
+  "India": {
     "holidays": [
         {
             "name": "New Year's Day",
@@ -137,22 +145,42 @@
             "public": true
         },
         {
-            "name": "Mother's Day",
-            "date": "2018-03-11",
-            "observed": "2018-03-11",
+            "name": "Ganesha Chaturti",
+            "date": "2018-07-11",
+            "observed": "2018-07-11",
             "public": false
         },
         {
-            "name": "Saint Patrick's Day",
-            "date": "2018-03-17",
-            "observed": "2018-03-17",
+            "name": "Diwali",
+            "date": "2018-07-17",
+            "observed": "2018-07-17",
             "public": true
         },
         {
-            "name": "March Equinox",
-            "date": "2018-03-20",
-            "observed": "2018-03-20",
+            "name": "Christmas",
+            "date": "2018-12-25",
+            "observed": "2018-12-25",
             "public": false
+        }
+    ],
+     "languages": [
+        {
+            "name": "Hindi"
+        },
+        {
+            "name": "English"
+        },
+        {
+            "name": "Tamil"
+        },
+        {
+            "name": "Telugu"
+        },
+        {
+            "name": "Malayalam"
+        },
+        {
+            "name": "Kannada and many more..."
         }
     ]
   }
