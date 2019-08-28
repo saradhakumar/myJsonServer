@@ -92,13 +92,13 @@
   "columnData": {
     "columnData":[
       {
-        "name":"Description",
+        "name":"Descriptor",
         "id":"descriptor",
-        "type":"string"
+        "type":"string" 
       },
       {
-        "name":"Count",
-        "id":"count",
+        "name":"Id",
+        "id":"id",
         "type":"number"
       }
     ]
