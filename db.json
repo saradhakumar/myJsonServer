@@ -55,17 +55,7 @@
             "observed": "2018-12-25",
             "public": true
         }
-      ],
-      "languages": [
-        {
-            "descriptor": "Spanish",
-            "id": 1
-        },
-        {
-            "descriptor": "English",
-             "id": 2         
-        }
-    ]
+      ]
     },
   "India": {
     "holidays": [
@@ -97,26 +87,21 @@
             "observed": "2018-12-25",
             "public": false
         }
-    ],
-     "languages": [
-        {
-            "descriptor": "Hindi"
-        },
-        {
-            "descriptor": "English"
-        },
-        {
-            "descriptor": "Tamil"
-        },
-        {
-            "descriptor": "Telugu"
-        },
-        {
-            "descriptor": "Malayalam"
-        },
-        {
-            "descriptor": "Kannada and many more..."
-        }
+    ]
+  },
+  {
+  "columnData": {
+    "columnData":[
+      {
+        "name":"Description",
+        "id":"descriptor",
+        "type":"string"
+      },
+      {
+        "name":"Count",
+        "id":"count",
+        "type":"number"
+      }
     ]
   }
 }
