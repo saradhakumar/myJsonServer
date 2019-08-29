@@ -102,5 +102,25 @@
         "type":"number"
       }
     ]
-  }
+  },
+  "data": [
+    {"row": [
+        {
+          "name": "Column 0",
+          "value": "01",
+          "isColumn": ""
+        },
+        {
+          "name": "Column 1",
+          "value": "11",
+          "isColumn": "X"
+        },
+        {
+          "name": "Column 2",
+          "value": "21",
+          "isColumn": "X"
+        }
+      ]
+    }
+    ]
 }
