@@ -92,14 +92,14 @@
   "columnData": {
     "columnData":[
       {
-        "name":"Descriptor",
-        "id":"descriptor",
+        "name":"Email",
+        "id":"primaryWorkEmail",
         "type":"string" 
       },
       {
-        "name":"Id",
-        "id":"id",
-        "type":"number"
+        "name":"Title",
+        "id":"businessTitle",
+        "type":"string"
       }
     ]
   },
