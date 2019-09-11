@@ -23,7 +23,7 @@
             "Fluid": true,
             "Event": true,
             "State": "DC",
-            "Food": "hotdog'
+            "Food": "hotdog"
         },
         {
             "descriptor": "Memorial Day",
@@ -35,7 +35,8 @@
             "Fluid": false,
             "Event": true,
             "State": "Everywhere",
-            "Food": "None'
+            "Food": "None
+            "Food": "None"
 
         },
         {
@@ -48,7 +49,7 @@
             "Fluid": false,
             "Event": true,
             "State": "DC",
-            "Food": "Chips and Soda'
+            "Food": "Chips and Soda"
 
         },
         {
@@ -61,7 +62,7 @@
             "Fluid": true,
             "Event": false,
             "State": "CA",
-            "Food": "None'
+            "Food": "None"
 
         },
         {
@@ -74,7 +75,7 @@
             "Fluid": false,
             "Event": false,
             "State": "USA",
-            "Food": "turkey'
+            "Food": "turkey"
 
         },
         {
@@ -87,7 +88,7 @@
             "Fluid": false,
             "Event": true,
             "State": "48",
-            "Food": "cake'
+            "Food": "cake"
         }
       ]
     },
