@@ -18,42 +18,76 @@
             "id": 1,
             "date": "2018-02-19",
             "observed": "2018-02-19",
-            "public": false
+            "public": false,
+            "Type": "history",
+            "Fluid": true,
+            "Event": true,
+            "State": "DC",
+            "Food": "hotdog',
         },
         {
             "descriptor": "Memorial Day",
             "id": 2,
             "date": "2018-05-28",
             "observed": "2018-05-28",
-            "public": true
+            "public": true,
+            "Type": "history",
+            "Fluid": false,
+            "Event": true,
+            "State": "Everywhere",
+            "Food": "None',
+
         },
         {
             "descriptor": "Independence Day",
             "id": 3,
             "date": "2018-07-04",
             "observed": "2018-07-04",
-            "public": true
+            "public": true,
+            "Type": "history",
+            "Fluid": false,
+            "Event": true,
+            "State": "DC",
+            "Food": "Chips and Soda',
+
         },
         {
             "descriptor": "Labor Day",
             "id": 4,
             "date": "2018-09-03",
             "observed": "2018-09-03",
-            "public": true
+            "public": true,
+            "Type": "Honor",
+            "Fluid": true,
+            "Event": false,
+            "State": "CA",
+            "Food": "None',
+
         },
         {
             "descriptor": "Thanksgiving Day",
             "id": 5,
             "date": "2018-11-22",
             "observed": "2018-11-22",
-            "public": true
+            "public": true,
+            "Type": "family",
+            "Fluid": false,
+            "Event": false,
+            "State": "USA",
+            "Food": "turkey',
+
         },
         {
             "descriptor": "Christmas Day",
             "id": 6,
             "date": "2018-12-25",
             "observed": "2018-12-25",
-            "public": true
+            "public": true,
+            "Type": "Religious",
+            "Fluid": false,
+            "Event": true,
+            "State": "48",
+            "Food": "cake',
         }
       ]
     },
