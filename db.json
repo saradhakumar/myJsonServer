@@ -86,31 +86,6 @@
             "State": "CA",
             "Food": "None"
 
-        },
-        {
-            "descriptor": "Thanksgiving Day",
-            "id": 5,
-            "date": "2018-11-22",
-            "observed": "2018-11-22",
-            "public": true,
-            "Type": "family",
-            "Fluid": false,
-            "Event": false,
-            "State": "USA",
-            "Food": "turkey"
-
-        },
-        {
-            "descriptor": "Christmas Day",
-            "id": 6,
-            "date": "2018-12-25",
-            "observed": "2018-12-25",
-            "public": true,
-            "Type": "Religious",
-            "Fluid": false,
-            "Event": true,
-            "State": "48",
-            "Food": "cake"
         }
       ]
     },
@@ -129,54 +104,6 @@
             "date": "2018-07-11",
             "observed": "2018-07-11",
             "public": false
-        },
-        {
-            "descriptor": "Diwali",
-            "id": 3,
-            "date": "2018-07-17",
-            "observed": "2018-07-17",
-            "public": true
-        },
-        {
-          "id": 4,
-          "descriptor": "Christmas",
-            "date": "2018-12-25",
-            "observed": "2018-12-25",
-            "public": false
-        }
-    ]
-  },
-  "columnData": {
-    "columnData":[
-      {
-        "name":"Email",
-        "id":"primaryWorkEmail",
-        "type":"string" 
-      },
-      {
-        "name":"Title",
-        "id":"businessTitle",
-        "type":"string"
-      }
-    ]
-  },
-  "data": {
-    "row": [
-        {
-          "name": "Column 0",
-          "value": "01",
-          "isColumn": ""
-        },
-        {
-          "name": "Column 1",
-          "value": "11",
-          "isColumn": "X"
-        },
-        {
-          "name": "Column 2",
-          "value": "21",
-          "isColumn": "X"
-        }
-      ]
-    }
+        }    ]
+  }
 }
