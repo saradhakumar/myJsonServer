@@ -48,19 +48,6 @@
             "Food": "hotdog"
         },
         {
-            "descriptor": "Memorial Day",
-            "id": 2,
-            "date": "2018-05-28",
-            "observed": "2018-05-28",
-            "public": true,
-            "Type": "history",
-            "Fluid": false,
-            "Event": true,
-            "State": "Everywhere",
-            "Food": "None"
-
-        },
-        {
             "descriptor": "Independence Day",
             "id": 3,
             "date": "2018-07-04",
