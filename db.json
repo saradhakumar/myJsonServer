@@ -1,16 +1,39 @@
 {
-  "countries": {
-    "instances": [
-          {
-              "descriptor": "USA",
-              "id": "USA"
-          },
-          {
-              "descriptor": "India",
-              "id": "India"
-          }
-    ]},
-  
+ "vendors": 
+   [
+      {
+        "name": "nga",
+        "url": "https://my-json-server.typicode.com/saradhakumar/myJsonServer/nga.json",
+        "authType": "NOAUTH"
+      },
+      {
+        "name": "adp",
+        "url": "https://my-json-server.typicode.com/saradhakumar/myJsonServer/adp.json"
+      }
+    ]
+  ,
+  "nga":{
+    "documents": [
+        {
+            "year": 2016,
+            "id": 848,
+            "date": "2016-10-18T12:06:56.000Z",
+            "extension": "pdf",
+            "url": "http://localhost:8988/ccx/mockExternalTaxDocumentAttachment1"
+        }
+    ]
+},
+  "adp":{
+    "documents": [
+        {
+            "year": 2017,
+            "id": 848,
+            "date": "2017-10-18T12:06:56.000Z",
+            "extension": "zip",
+            "url": "http://localhost:8988/ccx/mockExternalTaxDocumentAttachment2"
+        }
+    ]
+},
     "USA": {
       "holidays": [
        {
