@@ -2,12 +2,12 @@
  "vendors": [
       {
         "name": "nga",
-        "url": "https://my-json-server.typicode.com/saradhakumar/myJsonServer/nga.json",
+        "url": "https://my-json-server.typicode.com/saradhakumar/myJsonServer/nga",
         "authType": "NOAUTH"
       },
       {
         "name": "adp",
-        "url": "https://my-json-server.typicode.com/saradhakumar/myJsonServer/adp.json"
+        "url": "https://my-json-server.typicode.com/saradhakumar/myJsonServer/adp"
       }
     ]
 ,
