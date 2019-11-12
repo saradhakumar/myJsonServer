@@ -1,6 +1,6 @@
 {
- "vendors": 
-   [
+ "vendors": {
+   "values":[
       {
         "name": "nga",
         "url": "https://my-json-server.typicode.com/saradhakumar/myJsonServer/nga.json",
@@ -11,7 +11,7 @@
         "url": "https://my-json-server.typicode.com/saradhakumar/myJsonServer/adp.json"
       }
     ]
-  ,
+ },
   "nga":{
     "documents": [
         {
