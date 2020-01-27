@@ -77,19 +77,28 @@
     },
   "India": {
     "holidays": [
-        {
-            "descriptor": "New Year's Day",
-            "id": 1,
-            "date": "2018-01-01",
-            "observed": "2018-01-01",
-            "public": true
-        },
-        {
-            "descriptor": "Ganesha Chaturti",
-            "id": 2,
-            "date": "2018-07-11",
-            "observed": "2018-07-11",
-            "public": false
-        }    ]
+     {
+        "descriptor": "New Year's Day",
+        "id": 1,
+        "date": "2018-01-01",
+        "observed": "2018-01-01",
+        "public": true
+     },
+     {
+        "descriptor": "Ganesha Chaturti",
+        "id": 2,
+        "date": "2018-07-11",
+        "observed": "2018-07-11",
+        "public": false
+     }]
+  },
+  "epoints": {
+    "data": [
+     {
+        "url": "/200?sleep=20000"
+     },
+     {
+        "url": "/200?sleep=3000"
+     }]
   }
 }
