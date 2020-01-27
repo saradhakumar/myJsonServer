@@ -39,7 +39,7 @@
   "epoints": {
     "data": [
      {
-        "url": "/200?sleep=20000"
+        "url": "/200?sleep=18000"
      },
      {
         "url": "/200?sleep=3000"
