@@ -92,12 +92,4 @@
             "public": false
         }    ]
   }
-},
-"epoints":[
-    {
-        "url": /200?sleep=20000
-    },
-    {
-        "url": /200?sleep=15000
-    }
-]
+}
