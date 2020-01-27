@@ -1,77 +1,23 @@
 {
- "vendors": [
-      {
-        "name": "nga",
-        "url": "https://my-json-server.typicode.com/saradhakumar/myJsonServer/nga",
-        "authType": "NOAUTH"
-      },
-      {
-        "name": "adp",
-        "url": "https://my-json-server.typicode.com/saradhakumar/myJsonServer/adp"
-      }
-    ]
-,
-  "nga":{
-    "documents": [
-        {
-            "year": 2016,
-            "id": 848,
-            "date": "2016-10-18T12:06:56.000Z",
-            "extension": "pdf",
-            "url": "http://localhost:8988/ccx/mockExternalTaxDocumentAttachment1"
-        }
-    ]
-},
-  "adp":{
-    "documents": [
-        {
-            "year": 2017,
-            "id": 848,
-            "date": "2017-10-18T12:06:56.000Z",
-            "extension": "zip",
-            "url": "http://localhost:8988/ccx/mockExternalTaxDocumentAttachment2"
-        }
-    ]
-},
     "USA": {
       "holidays": [
        {
             "descriptor": "George Washington's Birthday",
             "id": 1,
             "date": "2018-02-19",
-            "observed": "2018-02-19",
-            "public": false,
-            "Type": "history",
-            "Fluid": true,
-            "Event": true,
-            "State": "DC",
-            "Food": "hotdog"
+            "observed": "2018-02-19"
         },
         {
             "descriptor": "Independence Day",
             "id": 3,
             "date": "2018-07-04",
-            "observed": "2018-07-04",
-            "public": true,
-            "Type": "history",
-            "Fluid": false,
-            "Event": true,
-            "State": "DC",
-            "Food": "Chips and Soda"
-
+            "observed": "2018-07-04"
         },
         {
             "descriptor": "Labor Day",
             "id": 4,
             "date": "2018-09-03",
-            "observed": "2018-09-03",
-            "public": true,
-            "Type": "Honor",
-            "Fluid": true,
-            "Event": false,
-            "State": "CA",
-            "Food": "None"
-
+            "observed": "2018-09-03"
         }
       ]
     },
@@ -81,15 +27,13 @@
         "descriptor": "New Year's Day",
         "id": 1,
         "date": "2018-01-01",
-        "observed": "2018-01-01",
-        "public": true
+        "observed": "2018-01-01"
      },
      {
         "descriptor": "Ganesha Chaturti",
         "id": 2,
         "date": "2018-07-11",
-        "observed": "2018-07-11",
-        "public": false
+        "observed": "2018-07-11"
      }]
   },
   "epoints": {
