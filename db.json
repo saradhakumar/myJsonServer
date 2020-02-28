@@ -28,14 +28,14 @@
         "id": 1,
         "date": "2018-01-01",
         "observed": "2018-01-01",
-        "WID":"32145wrq$wre"
+        "wid":"32145wrq$wre"
      },
      {
         "descriptor": "Ganesha Chaturti",
         "id": 2,
         "date": "2018-07-11",
         "observed": "2018-07-11",
-        "WID":"321433srq$wre"
+        "wid":"321433srq$wre"
      }]
   },
   "epoints": {
