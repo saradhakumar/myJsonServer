@@ -6,18 +6,6 @@
             "id": 1,
             "date": "2018-02-19",
             "observed": "2018-02-19"
-        },
-        {
-            "descriptor": "Independence Day",
-            "id": 3,
-            "date": "2018-07-04",
-            "observed": "2018-07-04"
-        },
-        {
-            "descriptor": "Labor Day",
-            "id": 4,
-            "date": "2018-09-03",
-            "observed": "2018-09-03"
         }
       ]
     },
