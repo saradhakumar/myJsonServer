@@ -6,6 +6,90 @@
             "id": 1,
             "date": "2018-02-19",
             "observed": "2018-02-19"
+        },
+        {
+            "descriptor": "Independence Day",
+            "id": 2,
+            "date": "2018-07-04",
+            "observed": "2018-07-04"
+        },
+        {
+            "descriptor": "Labor Day",
+            "id": 3,
+            "date": "2018-09-03",
+            "observed": "2018-09-03"
+        },
+           {
+            "descriptor": "George Washington's Birthday",
+            "id": 4,
+            "date": "2018-02-19",
+            "observed": "2018-02-19"
+        },
+        {
+            "descriptor": "Independence Day",
+            "id": 5,
+            "date": "2018-07-04",
+            "observed": "2018-07-04"
+        },
+        {
+            "descriptor": "Labor Day",
+            "id": 6,
+            "date": "2018-09-03",
+            "observed": "2018-09-03"
+        },
+           {
+            "descriptor": "George Washington's Birthday",
+            "id": 7,
+            "date": "2018-02-19",
+            "observed": "2018-02-19"
+        },
+        {
+            "descriptor": "Independence Day",
+            "id": 8,
+            "date": "2018-07-04",
+            "observed": "2018-07-04"
+        },
+        {
+            "descriptor": "Labor Day",
+            "id": 9,
+            "date": "2018-09-03",
+            "observed": "2018-09-03"
+        },
+           {
+            "descriptor": "George Washington's Birthday",
+            "id": 10,
+            "date": "2018-02-19",
+            "observed": "2018-02-19"
+        },
+        {
+            "descriptor": "Independence Day",
+            "id": 11,
+            "date": "2018-07-04",
+            "observed": "2018-07-04"
+        },
+        {
+            "descriptor": "Labor Day",
+            "id": 12,
+            "date": "2018-09-03",
+            "observed": "2018-09-03"
+        },
+           {
+            "descriptor": "George Washington's Birthday",
+            "id": 13,
+            "date": "2018-02-19",
+            "observed": "2018-02-19"
+        },
+        {
+            "descriptor": "Independence Day",
+            "id": 14,
+            "date": "2018-07-04",
+            "observed": "2018-07-04"
+        },
+        {
+            "descriptor": "Labor Day",
+            "id": 15,
+            "date": "2018-09-03",
+            "observed": "2018-09-03"
         }
       ]
     },
