@@ -98,6 +98,33 @@
      },
      {
         "url": "4000"
-     }]
+     }
+    ]
+  },
+  "chart1catdata": {
+      "data" : [
+       {
+          'sales': {
+            'thinMints': 100,
+            'lemonades': 110,
+            'caramelDeLites': 176
+          },
+          'sellerName': 'Sarah'
+       },{
+          'sales': {
+            'thinMints': 96,
+            'lemonades': 50,
+            'caramelDeLites': 90
+          },
+          'sellerName': 'Michelle'
+      },{
+        'sales': {
+          'thinMints': 81,
+          'lemonades': 39,
+          'caramelDeLites': 141
+      },
+      'sellerName': 'Johan'
+      }
+    ]
   }
 }
