@@ -126,5 +126,47 @@
       "sellerName": "Jose"
       }
     ]
-  }
+  },
+  "chart2catdata": {
+      "data" : [
+       {
+          "sales": {
+            "thinMints": 100
+          },
+          "sellerName": "Sarah-fromEndpoint",
+          "troopName": "Troop A"
+       },{
+          "sales": {
+            "thinMints": 96
+          },
+          "sellerName": "Michelle",
+          "troopName": "Troop B"
+      },{
+        "sales": {
+          "thinMints": 81
+      },
+      "sellerName": "Jose",
+      "troopName": "Troop A"  
+      },
+          {
+          "sales": {
+            "thinMints": 100
+          },
+          "sellerName": "Shameed",
+          "troopName": "Troop B"
+       },{
+          "sales": {
+            "thinMints": 96
+          },
+          "sellerName": "Mary",
+          "troopName": "Troop B"
+      },{
+        "sales": {
+          "thinMints": 81
+      },
+      "sellerName": "Maria",
+      "troopName": "Troop A"  
+      }
+    ]
+  }  
 }
