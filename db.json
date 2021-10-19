@@ -173,32 +173,28 @@
     "data" : [{
        "sales": {
          "thinMints": 100,
-         "lemonades": 110,
-         "caramelDeLites": 126
+         "lemonades": 110
      },
      "sellerName": "Sarah-ScriptInPmd",
      "troopName": "Troop B"
    },{
        "sales": {
          "thinMints": 96,
-         "lemonades": 50,
-         "caramelDeLites": 90
+         "lemonades": 50
      },
      "sellerName": "Michelle",
      "troopName": "Troop A"
    },{
      "sales": {
        "thinMints": 81,
-       "lemonades": 39,
-       "caramelDeLites": 111
+       "lemonades": 39
      },
      "sellerName": 79,
      "troopName": "Troop B"
   },{
      "sales": {
        "thinMints": 100,
-       "lemonades": 102,
-       "caramelDeLites": 76
+       "lemonades": 102
    },
      "sellerName": "Maria",
      "troopName": "Troop A"
