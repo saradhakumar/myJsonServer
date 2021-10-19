@@ -171,52 +171,52 @@
   },
    "combodata" : {
     "data" : [{
-       'sales': {
-         'thinMints': 100,
-         'lemonades': 110,
-         'caramelDeLites': 126
+       "sales": {
+         "thinMints": 100,
+         "lemonades": 110,
+         "caramelDeLites": 126
      },
-     'sellerName': 'Sarah-ScriptInPmd',
-     'troopName': 'Troop B'
+     "sellerName": "Sarah-ScriptInPmd",
+     "troopName": "Troop B"
    },{
-       'sales': {
-         'thinMints': 96,
-         'lemonades': 50,
-         'caramelDeLites': 90
+       "sales": {
+         "thinMints": 96,
+         "lemonades": 50,
+         "caramelDeLites": 90
      },
-     'sellerName': 'Michelle',
-     'troopName': 'Troop A'
+     "sellerName": "Michelle",
+     "troopName": "Troop A"
    },{
-     'sales': {
-       'thinMints': 81,
-       'lemonades': 39,
-       'caramelDeLites': 111
+     "sales": {
+       "thinMints": 81,
+       "lemonades": 39,
+       "caramelDeLites": 111
      },
-     'sellerName': 79,
-     'troopName': 'Troop B'
+     "sellerName": 79,
+     "troopName": "Troop B"
   },{
-     'sales': {
-       'thinMints': 100,
-       'lemonades': 102,
-       'caramelDeLites': 76
+     "sales": {
+       "thinMints": 100,
+       "lemonades": 102,
+       "caramelDeLites": 76
    },
-     'sellerName': 'Maria',
-     'troopName': 'Troop A'
+     "sellerName": "Maria",
+     "troopName": "Troop A"
  },{
-   'sales': {
-     'thinMints': 49,
-     'lemonades': 85,
-     'caramelDeLites': 79
+   "sales": {
+     "thinMints": 49,
+     "lemonades": 85,
+     "caramelDeLites": 79
    },
-   'sellerName': 'Markle',
-   'troopName': 'Troop B'
+   "sellerName": "Markle",
+   "troopName": "Troop B"
   },{
-   'sales': {
-     'thinMints': 21,
-     'lemonades': 31,
-     'caramelDeLites': 41
+   "sales": {
+     "thinMints": 21,
+     "lemonades": 31,
+     "caramelDeLites": 41
    },
-   'sellerName': 'Toby',
-   'troopName': 'Troop A'
+   "sellerName": "Toby",
+   "troopName": "Troop A"
  }]} 
 }
