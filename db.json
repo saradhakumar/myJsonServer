@@ -202,21 +202,5 @@
    },
      "sellerName": "Maria",
      "troopName": "Troop A"
- },{
-   "sales": {
-     "thinMints": 49,
-     "lemonades": 85,
-     "caramelDeLites": 79
-   },
-   "sellerName": "Markle",
-   "troopName": "Troop B"
-  },{
-   "sales": {
-     "thinMints": 21,
-     "lemonades": 31,
-     "caramelDeLites": 41
-   },
-   "sellerName": "Toby",
-   "troopName": "Troop A"
  }]} 
 }
