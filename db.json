@@ -49,6 +49,21 @@
         "observed": "2018-07-11"
      }]
   },
+  "slider": {
+    "data": [
+     {
+        "descriptor": "To find out the word"
+     },
+     {
+        "descriptor": "To find out the word that is too long you just have to look for one"
+     },
+    {
+        "descriptor": "To find out the word and character count of"
+     },
+    {
+        "descriptor": "To find out the word and character count of your writing"
+     }]
+  },
   "chart1catdata": {
       "data" : [
        {
