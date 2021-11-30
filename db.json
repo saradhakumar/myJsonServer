@@ -52,12 +52,15 @@
   "slider": {
     "data": [
      {
+         "id":1,
         "descriptor": "To find out the word"
      },
      {
+        "id":2,
         "descriptor": "To find out the word that "
      },
     {
+         "id":3,    
         "descriptor": "To find out the word and character coun"
      }]
   },
