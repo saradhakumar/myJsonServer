@@ -90,6 +90,316 @@
        {
         "descriptor": "Japan",
         "id": 23
+        },
+          {
+            "descriptor": "Ukrain",
+            "id": 24
+        },
+       {
+        "descriptor": "Iran",
+        "id": 25
+        },
+       {
+            "descriptor": "Jakarta",
+            "id": 111
+        },
+        {
+            "descriptor": "Maldives",
+            "id": 112
+        },
+        {
+            "descriptor": "Madagaskar",
+            "id": 113
+        },
+        {
+            "descriptor": "Hersogovina",
+            "id": 114
+        },
+           {
+            "descriptor": "Bosnia",
+            "id": 115
+        },
+          {
+            "descriptor": "Hungary",
+            "id": 116
+        },
+        {
+            "descriptor": "Lisotho",
+            "id": 117
+        },
+        {
+            "descriptor": "Nepal",
+            "id": 118
+        },
+        {
+            "descriptor": "Bhutan",
+            "id": 119
+        },
+       {
+            "descriptor": "Myanmar",
+            "id": 120
+        },{
+            "descriptor": "Thailand",
+            "id": 121
+        },
+        {
+            "descriptor": "Malaysia",
+            "id": 122
+        },
+        {
+            "descriptor": "Singapore",
+            "id": 123
+        },
+        {
+            "descriptor": "UAE",
+            "id": 124
+        },
+         {
+            "descriptor": "Dubai",
+            "id": 125
+        },
+        {
+            "descriptor": "Qatar",
+            "id": 126
+        },
+        {
+            "descriptor": "Iraq",
+            "id": 127
+        },
+       {
+            "descriptor": "Iran",
+            "id": 128
+        },{
+            "descriptor": "Israel",
+            "id": 129
+        },
+        {
+            "descriptor": "Panama",
+            "id": 130
+        },
+        {
+            "descriptor": "Ghana",
+            "id": 131
+        },
+        {
+            "descriptor": "Zimbabwe",
+            "id": 132
+        },
+       {
+        "descriptor": "Uganda",
+        "id": 133
+        },
+          {
+            "descriptor": "Britain",
+            "id": 134
+        },
+       {
+        "descriptor": "UK",
+        "id": 135
+        },
+          {
+            "descriptor": "Albania",
+            "id": 1
+        },
+        {
+            "descriptor": "India",
+            "id": 2
+        },
+        {
+            "descriptor": "Bahrain",
+            "id": 3
+        },
+        {
+            "descriptor": "Libya",
+            "id": 4
+        },
+           {
+            "descriptor": "China",
+            "id": 5
+        },
+          {
+            "descriptor": "Georgia",
+            "id": 6
+        },
+        {
+            "descriptor": "Lithuania",
+            "id": 7
+        },
+        {
+            "descriptor": "Ethiopia",
+            "id": 8
+        },
+        {
+            "descriptor": "France",
+            "id": 9
+        },
+       {
+            "descriptor": "Peru",
+            "id": 10
+        },{
+            "descriptor": "Colombia",
+            "id": 11
+        },
+        {
+            "descriptor": "Zambia",
+            "id": 12
+        },
+        {
+            "descriptor": "Australia",
+            "id": 13
+        },
+        {
+            "descriptor": "Denmark",
+            "id": 14
+        },
+         {
+            "descriptor": "Finland",
+            "id": 15
+        },
+        {
+            "descriptor": "Belgium",
+            "id": 16
+        },
+        {
+            "descriptor": "Greece",
+            "id": 17
+        },
+       {
+            "descriptor": "Nicaragua",
+            "id": 18
+        },{
+            "descriptor": "Guatamala",
+            "id": 19
+        },
+        {
+            "descriptor": "Brazil",
+            "id": 20
+        },
+        {
+            "descriptor": "Belize",
+            "id": 21
+        },
+        {
+            "descriptor": "Honduras",
+            "id": 22
+        },
+       {
+        "descriptor": "Mexico",
+        "id": 23
+        },
+          {
+            "descriptor": "Germany",
+            "id": 24
+        },
+       {
+        "descriptor": "Netherlands",
+        "id": 25
+        },
+       {
+            "descriptor": "Austria",
+            "id": 111
+        },
+        {
+            "descriptor": "Poland",
+            "id": 112
+        },
+        {
+            "descriptor": "yugoslavia",
+            "id": 113
+        },
+        {
+            "descriptor": "Chekoslovakia",
+            "id": 114
+        },
+           {
+            "descriptor": "Bosnia",
+            "id": 115
+        },
+          {
+            "descriptor": "Hungary",
+            "id": 116
+        },
+        {
+            "descriptor": "S Korea",
+            "id": 117
+        },
+        {
+            "descriptor": "N Korea",
+            "id": 118
+        },
+        {
+            "descriptor": "Vietnam",
+            "id": 119
+        },
+       {
+            "descriptor": "Laos",
+            "id": 120
+        },{
+            "descriptor": "Sri Lanka",
+            "id": 121
+        },
+        {
+            "descriptor": "Tibet - I care",
+            "id": 122
+        },
+        {
+            "descriptor": "Mongolia",
+            "id": 123
+        },
+        {
+            "descriptor": "Uzbekisthan",
+            "id": 124
+        },
+         {
+            "descriptor": "Dubai",
+            "id": 125
+        },
+        {
+            "descriptor": "Argentina",
+            "id": 126
+        },
+        {
+            "descriptor": "Cuba",
+            "id": 127
+        },
+       {
+            "descriptor": "West Indies",
+            "id": 128
+        },{
+            "descriptor": "Tobago",
+            "id": 129
+        },
+        {
+            "descriptor": "Trinidad",
+            "id": 130
+        },
+        {
+            "descriptor": "Puerto Rico",
+            "id": 131
+        },
+        {
+            "descriptor": "Delhi",
+            "id": 132
+        },
+       {
+        "descriptor": "Agra",
+        "id": 133
+        },
+          {
+            "descriptor": "Africa",
+            "id": 134
+        },
+       {
+        "descriptor": "Belarus",
+        "id": 135
+        },
+           {
+            "descriptor": "Africa2",
+            "id": 134
+        },
+       {
+        "descriptor": "Belarus2",
+        "id": 135
         }
       ]
     },
